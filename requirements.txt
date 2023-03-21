@@ -1,0 +1,2 @@
+python_magic==0.4.27
+# Windows requires 'pip install python-magic' AND 'pip install python-magic-bin' (Additional DLLs required)
