@@ -28,4 +28,4 @@ python hasher.py /path/to/Files -r -d -o /path/to/preferred/Output
 
 ### Example
 
-![Example use of the tool.](/image/hasher_ex.png "Example use of the tool.")
+![Example use of the tool.](/image/hasher2_ex.png "Example use of the tool.")
